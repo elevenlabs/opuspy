@@ -1,0 +1,9 @@
+cmake-build-release
+dist
+build
+wheelhouse
+opuspy.egg-info
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea

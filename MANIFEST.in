@@ -1,0 +1,3 @@
+include CMakeLists.txt
+include opuspy.cc
+include CMakeLists.txt
